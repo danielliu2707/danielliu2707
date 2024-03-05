@@ -7,7 +7,7 @@
 
 I am a Data Science and Econometrics student at Monash University.
 
-- :telescope: I'm currently working as a Data Science Intern at Newcrest.
+- :telescope: I'm currently a still studying full time.
 
 - :zap: In my free time, I work on passion projects (in sports) and surf the web.
 
