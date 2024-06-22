@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Data Science and Econometrics student at Monash University.
+I am a Data Science and Business Analytics student at Monash University.
 
 - :telescope: I'm currently a still studying full time.
 
