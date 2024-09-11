@@ -7,7 +7,7 @@
 
 I am a Data Science and Business Analytics student at Monash University.
 
-- :telescope: I'm currently a still studying full time.
+- :telescope: I'm currently studying full time.
 
 - :zap: In my free time, I work on passion projects (in sports) and surf the web.
 
